@@ -23,7 +23,7 @@
 
 <p>This repository supports an attempt to bootstrap the process by capturing core design principles and suggesting implementation guidelines. In the short term, it is meant to act as an evolving reference guide to OpenC2 prototype implementers and provide a feedback mechanism to the OASIS OpenC2 Technical Committee and its <a href="https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=openc2#subcommittees">Subcommittees</a>.</p>
 
-<p>This repository work is chartered as an open source effort in accordance with the Creative Commons Attribution 4.0 International License. The initial content will be imported from the JTC GitHub repository.</p>
+<p>This repository work is chartered as an open source effort in accordance with the Creative Commons Attribution 4.0 International License. The initial content will be imported from the <a href="https://github.com/jtcbrule/openc2-compatibility">JTC GitHub repository</a>.</p>
 
 <p>The OASIS OpenC2 Technical Committee was <a href="https://www.oasis-open.org/committees/openc2/charter.php">chartered</a> to address matters as they pertain to command and control of cyber defense technologies, and to maintain a library of prototype implementations. The TC charter further specifies that the TC shall provide implementation guidance, as supported by assets in this GitHub reporitory.</p>
 
